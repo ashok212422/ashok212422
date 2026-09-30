@@ -1,10 +1,10 @@
 # Hi, I'm Ashok Choudhary 👋
 
-### CFD & Combustion Researcher | OpenFOAM | PDRFoam | Scientific Computing
+### CFD & Combustion Researcher | OpenFOAM | PDRFoam | Scientific Computing | ML for Engineering
 
-I am an **M.S. (Research) scholar in Applied Mechanics at IIT Madras**, working on hydrogen combustion, explosion safety and CFD–experiment validation.
+I am an **M.S. (Research) scholar in Applied Mechanics at IIT Madras**, working on hydrogen combustion, explosion safety, and CFD–experiment validation. I also apply machine learning to engineering problems such as predictive maintenance.
 
-Before joining IIT Madras, I gained **more than six years of industrial engineering experience at Tata Steel**, covering equipment maintenance, commissioning, troubleshooting and drawing-led plant modifications.
+Before joining IIT Madras, I gained **more than ten years of industrial engineering experience, including Tata Steel**, covering equipment maintenance, commissioning, troubleshooting, and drawing-led plant modifications.
 
 🌐 **Portfolio:** [ashok212422.github.io](https://ashok212422.github.io/)
 
@@ -19,6 +19,7 @@ Before joining IIT Madras, I gained **more than six years of industrial engineer
 - CFD–experiment validation
 - Computer-vision-based flow diagnostics
 - Scientific data processing and visualization
+- Machine learning for predictive maintenance and engineering data
 
 ---
 
@@ -40,6 +41,13 @@ Before joining IIT Madras, I gained **more than six years of industrial engineer
 - MATLAB
 - PyTorch, OpenCV and SEA-RAFT
 - Linux, shell scripting and HPC workflows
+
+### Machine Learning & Data Analysis
+
+- Time-series modelling with LSTM (PyTorch)
+- scikit-learn and XGBoost baselines
+- Exploratory data analysis, feature engineering and leakage-free validation
+- Physics-informed neural networks (PINNs)
 
 ### Post-Processing & Engineering
 
@@ -64,6 +72,15 @@ CFD–experiment validation of hydrogen deflagration in congested geometries usi
 - Solver development
 
 🔗 [View my portfolio project](https://ashok212422.github.io/#projects)
+
+### Predictive Maintenance: Turbofan Engine RUL Prediction
+
+An LSTM-based model that predicts the remaining useful life of turbofan engines from multivariate sensor data (NASA C-MAPSS, FD001), benchmarked against Linear Regression, Random Forest and XGBoost. Using 30-cycle sliding windows and engine-wise validation, it reaches an RMSE of 15.0 ± 0.2 cycles over 5 seeds, about 25% lower than the XGBoost baseline, with far fewer dangerous late predictions.
+
+- Python, PyTorch, scikit-learn, XGBoost
+- Time-series modelling and predictive maintenance
+
+🔗 [View repository][(https://github.com/ashok212422/turbofan-rul-prediction)](https://www.kaggle.com/code/ashokchoudhary212422/predictive-maintenance-turbofan-rul-with-ml) | 📓 [Kaggle notebook](APNA-KAGGLE-LINK-YAHAN)
 
 ### Incense-Stick Turbulent Flow Analysis
 
@@ -98,7 +115,8 @@ A scientific-computing workflow using SEA-RAFT to extract time-resolved apparent
 - Improving hydrogen flame-speed and flame-wrinkling formulations in PDRFoam
 - Validating CFD results against direction-matched experimental measurements
 - Developing Python and MATLAB workflows for reproducible scientific analysis
-- Preparing for CFD, thermal-fluid, combustion and simulation-engineering opportunities
+- Extending the turbofan RUL project with 1D-CNN models and physics-informed constraints
+- Preparing for CFD, thermal-fluid, combustion, simulation-engineering and ML-for-engineering opportunities
 
 ---
 
