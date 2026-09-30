@@ -80,7 +80,7 @@ An LSTM-based model that predicts the remaining useful life of turbofan engines 
 - Python, PyTorch, scikit-learn, XGBoost
 - Time-series modelling and predictive maintenance
 
-🔗 [View repository][(https://github.com/ashok212422/turbofan-rul-prediction)](https://www.kaggle.com/code/ashokchoudhary212422/predictive-maintenance-turbofan-rul-with-ml) | 📓 [Kaggle notebook](APNA-KAGGLE-LINK-YAHAN)
+🔗 🔗 [View repository](https://github.com/ashok212422/Turbofan-rul-prediction) | 📓 [Kaggle notebook](https://www.kaggle.com/code/ashokchoudhary212422/predictive-maintenance-turbofan-rul-with-ml)
 
 ### Incense-Stick Turbulent Flow Analysis
 
